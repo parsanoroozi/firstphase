@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\firstphase\firstphase\bin\Debug\firstphase.exe.config
+C:\Users\ASUS\source\repos\firstphase\firstphase\bin\Debug\firstphase.exe
+C:\Users\ASUS\source\repos\firstphase\firstphase\bin\Debug\firstphase.pdb
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase_MarkupCompile.cache
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase_MarkupCompile.lref
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.g.resources
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.Properties.Resources.resources
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.exe
+C:\Users\ASUS\source\repos\firstphase\firstphase\obj\Debug\firstphase.pdb
