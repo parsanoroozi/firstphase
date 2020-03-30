@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="550">
     <StackPanel>
         <Grid>
-            <TabControl Height="425">
+            <TabControl x:Name="tabcontrol" Height="425">
                 <TabItem Header="page1" Width="50" Height="20">
                     <StackPanel>
                         <Grid>
@@ -59,7 +59,7 @@
                         </Grid>
                         <TextBlock FontWeight="Bold" Text="A sample text box wich is more than only one line :" Margin="20 20 0 0"/>
                         <TextBox Margin="20 20 20 0" Padding="2"  AcceptsReturn="True" TextWrapping="Wrap" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" />
-                        <Button Content="Next Page" Margin="100 30 100 0" Padding="2"/>
+                        <Button Content="Next Page" Click="Button_Click" Margin="100 30 100 0" Padding="2"/>
                     </StackPanel>
                 </TabItem>
                 <TabItem Header="page2" Width="50" Height="20">

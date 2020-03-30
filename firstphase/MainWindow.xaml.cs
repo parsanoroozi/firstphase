@@ -24,5 +24,10 @@ namespace firstphase
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            tabcontrol.SelectedIndex = 1;
+        }
     }
 }
